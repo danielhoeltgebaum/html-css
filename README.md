@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Perfil Daniel</title>
-    <link rel="shortcut icon" href="faviconPacman.ico" type="image/x-icon">
     </head>
 <body>
     <h1>Minhas redes sociais</h1>
@@ -20,7 +19,6 @@
         <li><img src="/Imagens/logo-instagram.png" alt="logo-instagram" width="20"><a href="https://www.instagram.com/dhoeltgebaum/" target="_blank">Acessar meu Instagram</a></li>
         <li><img src="/Imagens/logo-facebook.png" alt="Facebook"    width="20"><a href="https://www.facebook.com/daniel.hoeltgebaum" target="_blank">Acessar meu Facebook</a></li>
         <li><img src="/Imagens/x.png" alt="x"   width="20"><a href="https://x.com/dhoeltgebaummm"  target="_blank">Acessar meu Twitter</a></li>
-        
     </ul>
 </body>
 </html>
