@@ -5,16 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Perfil Daniel</title>
     <link rel="shortcut icon" href="faviconPacman.ico" type="image/x-icon">
-    <style>
-        mark1{background-color: blue;}
-        mark2{background-color: deeppink;}
-        mark3{background-color: darkgrey;}
-    </style>
-</head>
+    </head>
 <body>
     <h1>Minhas redes sociais</h1>
     <h2>Quem sou eu?</h2>
-    <img src="/Imagens/Daniel.jpg" alt="imagem de perfil" width="100">
     <code>
         <p>Meu nome é Daniel Hoeltgebaum, sou estudante de programação e estou aprendendo a criar sites.</p>
     </code>
